@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259164559,
+      "lastSeen": 1772259169559,
       "_wst": {
         "w": 0,
         "l": 2
@@ -212,5 +212,13 @@
   },
   "sicBoForceBig": true,
   "sicBoForceSmall": false,
-  "sicBoForceTriple": false
+  "sicBoForceTriple": false,
+  "crashRound": {
+    "history": [
+      {
+        "v": 1.81,
+        "ts": 1772259165766
+      }
+    ]
+  }
 }
