@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260470754,
+      "lastSeen": 1772260460754,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772260467062
+        },
         {
           "type": "game",
           "name": "Crash/Spaceman",
@@ -28,7 +36,7 @@
       ],
       "_wst": {
         "w": 0,
-        "l": 2
+        "l": 1
       }
     },
     "marv99": {
@@ -63,6 +71,10 @@
   "crashRound": {
     "history": [
       {
+        "v": 1000,
+        "ts": 1772260467062
+      },
+      {
         "v": 6.91,
         "ts": 1772260432956
       }
@@ -70,6 +82,16 @@
   },
   "sicboRound": {
     "history": [
+      {
+        "d1": 1,
+        "d2": 2,
+        "d3": 3,
+        "total": 6,
+        "label": "6K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772260473594
+      },
       {
         "d1": 6,
         "d2": 6,
@@ -92,14 +114,14 @@
       }
     ],
     "current": {
-      "d1": 6,
-      "d2": 6,
-      "d3": 1,
-      "total": 13,
-      "label": "13B",
-      "labelKey": "B",
+      "d1": 1,
+      "d2": 2,
+      "d3": 3,
+      "total": 6,
+      "label": "6K",
+      "labelKey": "K",
       "isTriple": false,
-      "ts": 1772260453393
+      "ts": 1772260473594
     }
   }
 }
