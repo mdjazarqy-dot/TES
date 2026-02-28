@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10022500,
+      "balance": 10012500,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Spaceman",
+      "playing": null,
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276557883,
+      "lastSeen": 1772276562956,
       "_wst": {
         "w": 2,
         "l": 0
@@ -83,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -99,57 +99,5 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {},
-  "sicboRound": {
-    "history": [
-      {
-        "d1": 5,
-        "d2": 3,
-        "d3": 5,
-        "total": 13,
-        "label": "13B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772276519578
-      },
-      {
-        "d1": 1,
-        "d2": 1,
-        "d3": 2,
-        "total": 4,
-        "label": "4K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772275937246
-      },
-      {
-        "d1": 1,
-        "d2": 3,
-        "d3": 6,
-        "total": 10,
-        "label": "10K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772275896836
-      }
-    ],
-    "current": {
-      "d1": 5,
-      "d2": 3,
-      "d3": 5,
-      "total": 13,
-      "label": "13B",
-      "labelKey": "B",
-      "isTriple": false,
-      "ts": 1772276519578
-    }
-  },
-  "crashRound": {
-    "history": [
-      {
-        "v": 6.04,
-        "ts": 1772275922253
-      }
-    ]
-  }
+  "lockedGames": {}
 }
