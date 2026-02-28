@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276512577,
+      "lastSeen": 1772276522575,
       "_wst": {
         "w": 2,
         "l": 0
@@ -103,6 +103,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 5,
+        "d2": 3,
+        "d3": 5,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276519578
+      },
+      {
         "d1": 1,
         "d2": 1,
         "d3": 2,
@@ -124,14 +134,14 @@
       }
     ],
     "current": {
-      "d1": 1,
-      "d2": 1,
-      "d3": 2,
-      "total": 4,
-      "label": "4K",
-      "labelKey": "K",
+      "d1": 5,
+      "d2": 3,
+      "d3": 5,
+      "total": 13,
+      "label": "13B",
+      "labelKey": "B",
       "isTriple": false,
-      "ts": 1772275937246
+      "ts": 1772276519578
     }
   },
   "crashRound": {
