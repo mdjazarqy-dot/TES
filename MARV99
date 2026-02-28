@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260469218,
+      "lastSeen": 1772260470754,
       "transactions": [
         {
           "type": "game",
@@ -28,7 +28,7 @@
       ],
       "_wst": {
         "w": 0,
-        "l": 1
+        "l": 2
       }
     },
     "marv99": {
