@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10060000,
+      "balance": 10160000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -16,6 +16,14 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 90000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772263137327
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -49,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263136758
+      "lastSeen": 1772263138767
     },
     "marv99": {
       "password": "owner2025",
