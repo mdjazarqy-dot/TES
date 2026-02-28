@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9990000,
+      "balance": 9980000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258553754,
+      "lastSeen": 1772258543751,
       "_wst": {
         "w": 0,
         "l": 2
@@ -59,7 +59,7 @@
   "globalWinRate": 40,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 40000,
+  "revenue": 50000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
@@ -71,12 +71,12 @@
   "sicboRound": {
     "history": [
       {
-        "d1": 4,
-        "d2": 1,
-        "d3": 5,
-        "total": 10,
-        "label": "10(K)",
-        "ts": 1772258523431
+        "d1": 5,
+        "d2": 3,
+        "d3": 6,
+        "total": 14,
+        "label": "14(B)",
+        "ts": 1772258543635
       },
       {
         "d1": 2,
@@ -96,12 +96,12 @@
       }
     ],
     "current": {
-      "d1": 4,
-      "d2": 1,
-      "d3": 5,
-      "total": 10,
-      "label": "10(K)",
-      "ts": 1772258523431
+      "d1": 5,
+      "d2": 3,
+      "d3": 6,
+      "total": 14,
+      "label": "14(B)",
+      "ts": 1772258543635
     }
   },
   "sicBoNext": null,
