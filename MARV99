@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10160000,
+      "balance": 11160000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -64,7 +64,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263151758
+      "lastSeen": 1772263171761
     },
     "marv99": {
       "password": "owner2025",
@@ -94,7 +94,7 @@
       "amount": 1000000,
       "method": "DANA",
       "ts": 1772263150291,
-      "status": "pending"
+      "status": "approved"
     }
   ],
   "pendingWithdraws": [],
@@ -114,6 +114,16 @@
   "lockedGames": {},
   "sicboRound": {
     "history": [
+      {
+        "d1": 6,
+        "d2": 4,
+        "d3": 2,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772263156333
+      },
       {
         "d1": 3,
         "d2": 3,
@@ -156,14 +166,14 @@
       }
     ],
     "current": {
-      "d1": 3,
-      "d2": 3,
-      "d3": 3,
-      "total": 9,
-      "label": "9T",
-      "labelKey": "T",
-      "isTriple": true,
-      "ts": 1772263136065
+      "d1": 6,
+      "d2": 4,
+      "d3": 2,
+      "total": 12,
+      "label": "12B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772263156333
     }
   },
   "sicBoForceBig": false,
