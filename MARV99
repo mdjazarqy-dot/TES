@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10002500,
+      "balance": 9982500,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -16,6 +16,22 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772276997223
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772276977015
+        },
         {
           "type": "game",
           "name": "Gates of Olympus",
@@ -57,10 +73,10 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276966880,
+      "lastSeen": 1772277001878,
       "_wst": {
-        "w": 2,
-        "l": 0
+        "w": 0,
+        "l": 1
       }
     },
     "marv99": {
@@ -83,7 +99,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 40000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -103,6 +119,26 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 5,
+        "d2": 5,
+        "d3": 2,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276996021
+      },
+      {
+        "d1": 4,
+        "d2": 2,
+        "d3": 5,
+        "total": 11,
+        "label": "11B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276975814
+      },
+      {
         "d1": 2,
         "d2": 4,
         "d3": 4,
@@ -114,14 +150,29 @@
       }
     ],
     "current": {
-      "d1": 2,
-      "d2": 4,
-      "d3": 4,
-      "total": 10,
-      "label": "10K",
-      "labelKey": "K",
+      "d1": 5,
+      "d2": 5,
+      "d3": 2,
+      "total": 12,
+      "label": "12B",
+      "labelKey": "B",
       "isTriple": false,
-      "ts": 1772276914931
+      "ts": 1772276996021
     }
-  }
+  },
+  "crashRound": {
+    "history": [
+      {
+        "v": 8.63,
+        "ts": 1772276992240
+      },
+      {
+        "v": 1000,
+        "ts": 1772276973865
+      }
+    ]
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true
 }
