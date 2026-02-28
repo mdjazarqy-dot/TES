@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": null,
+      "playing": "Spaceman",
       "session": 0,
       "winRate": 100,
       "forceWin": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258485583,
+      "lastSeen": 1772258500222,
       "_wst": {
         "w": 0,
         "l": 2
