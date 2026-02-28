@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258508752,
+      "lastSeen": 1772258513751,
       "_wst": {
         "w": 0,
         "l": 2
@@ -102,11 +102,5 @@
   "sicBoForceTriple": false,
   "crashRound": {
     "history": []
-  },
-  "crashNext": {
-    "value": 1000,
-    "game": "Spaceman",
-    "ts": 1772258508500,
-    "setBy": "owner"
   }
 }
