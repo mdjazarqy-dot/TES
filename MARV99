@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9990000,
+      "balance": 10022500,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
-      "playing": "Gates of Olympus",
+      "online": true,
+      "playing": null,
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -16,6 +16,14 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Gates of Olympus",
+          "amount": 12500,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772275893962
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -49,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275891869,
+      "lastSeen": 1772275895248,
       "_wst": {
         "w": 1,
         "l": 0
@@ -75,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 10000,
+  "revenue": 0,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
