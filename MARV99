@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10000000,
+      "balance": 9980000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -22,10 +22,18 @@
           "amount": 10000,
           "icon": "🎮",
           "win": false,
+          "ts": 1772263076613
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263056758
+      "lastSeen": 1772263086778
     },
     "marv99": {
       "password": "owner2025",
@@ -47,7 +55,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 20000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -63,5 +71,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 4,
+        "d2": 3,
+        "d3": 4,
+        "total": 11,
+        "label": "11B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772263075411
+      }
+    ],
+    "current": {
+      "d1": 4,
+      "d2": 3,
+      "d3": 4,
+      "total": 11,
+      "label": "11B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772263075411
+    }
+  }
 }
