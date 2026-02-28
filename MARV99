@@ -15,12 +15,20 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259174559,
+      "lastSeen": 1772259189560,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772259186707
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -119,6 +127,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 6,
+        "d2": 4,
+        "d3": 6,
+        "total": 16,
+        "label": "16B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772259178194
+      },
+      {
         "d1": 1,
         "d2": 5,
         "d3": 6,
@@ -200,14 +218,14 @@
       }
     ],
     "current": {
-      "d1": 1,
-      "d2": 5,
+      "d1": 6,
+      "d2": 4,
       "d3": 6,
-      "total": 12,
-      "label": "12B",
+      "total": 16,
+      "label": "16B",
       "labelKey": "B",
       "isTriple": false,
-      "ts": 1772259157990
+      "ts": 1772259178194
     }
   },
   "sicBoForceBig": true,
@@ -215,6 +233,10 @@
   "sicBoForceTriple": false,
   "crashRound": {
     "history": [
+      {
+        "v": 9.17,
+        "ts": 1772259186707
+      },
       {
         "v": 1.81,
         "ts": 1772259165766
