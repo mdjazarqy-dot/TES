@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10002500,
+      "balance": 19636042,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": null,
+      "playing": "Sic Bo / Dadu",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -16,6 +16,14 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": 9613542,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772276941346
+        },
         {
           "type": "game",
           "name": "Gates of Olympus",
@@ -57,7 +65,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276931885,
+      "lastSeen": 1772276951879,
       "_wst": {
         "w": 2,
         "l": 0
@@ -83,7 +91,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -100,28 +108,91 @@
   "ownerJackpot": 0,
   "settings": {},
   "lockedGames": {},
+  "crashRound": {
+    "history": [
+      {
+        "v": 1000,
+        "ts": 1772276941432
+      },
+      {
+        "v": 6.04,
+        "ts": 1772275922253
+      }
+    ]
+  },
   "sicboRound": {
     "history": [
       {
-        "d1": 2,
-        "d2": 4,
-        "d3": 4,
+        "d1": 1,
+        "d2": 2,
+        "d3": 5,
+        "total": 8,
+        "label": "8K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772276935369
+      },
+      {
+        "d1": 4,
+        "d2": 3,
+        "d3": 5,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276894729
+      },
+      {
+        "d1": 5,
+        "d2": 2,
+        "d3": 1,
+        "total": 8,
+        "label": "8K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772276874088
+      },
+      {
+        "d1": 5,
+        "d2": 3,
+        "d3": 5,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276519578
+      },
+      {
+        "d1": 1,
+        "d2": 1,
+        "d3": 2,
+        "total": 4,
+        "label": "4K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772275937246
+      },
+      {
+        "d1": 1,
+        "d2": 3,
+        "d3": 6,
         "total": 10,
         "label": "10K",
         "labelKey": "K",
         "isTriple": false,
-        "ts": 1772276914931
+        "ts": 1772275896836
       }
     ],
     "current": {
-      "d1": 2,
-      "d2": 4,
-      "d3": 4,
-      "total": 10,
-      "label": "10K",
+      "d1": 1,
+      "d2": 2,
+      "d3": 5,
+      "total": 8,
+      "label": "8K",
       "labelKey": "K",
       "isTriple": false,
-      "ts": 1772276914931
+      "ts": 1772276935369
     }
-  }
+  },
+  "crashNext": null
 }
