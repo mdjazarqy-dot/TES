@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9970000,
+      "balance": 10060000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -16,6 +16,14 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 90000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772263117061
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -41,7 +49,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263111759
+      "lastSeen": 1772263136758
     },
     "marv99": {
       "password": "owner2025",
@@ -63,7 +71,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 30000,
+  "revenue": 40000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -82,6 +90,26 @@
   "lockedGames": {},
   "sicboRound": {
     "history": [
+      {
+        "d1": 3,
+        "d2": 3,
+        "d3": 3,
+        "total": 9,
+        "label": "9T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772263136065
+      },
+      {
+        "d1": 5,
+        "d2": 5,
+        "d3": 5,
+        "total": 15,
+        "label": "15T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772263115821
+      },
       {
         "d1": 2,
         "d2": 5,
@@ -104,14 +132,14 @@
       }
     ],
     "current": {
-      "d1": 2,
-      "d2": 5,
+      "d1": 3,
+      "d2": 3,
       "d3": 3,
-      "total": 10,
-      "label": "10K",
-      "labelKey": "K",
-      "isTriple": false,
-      "ts": 1772263095616
+      "total": 9,
+      "label": "9T",
+      "labelKey": "T",
+      "isTriple": true,
+      "ts": 1772263136065
     }
   },
   "sicBoForceBig": false,
