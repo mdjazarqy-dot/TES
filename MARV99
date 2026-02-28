@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9980000,
+      "balance": 9970000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -41,7 +41,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263096758
+      "lastSeen": 1772263111759
     },
     "marv99": {
       "password": "owner2025",
@@ -63,7 +63,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 30000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -113,5 +113,8 @@
       "isTriple": false,
       "ts": 1772263095616
     }
-  }
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true
 }
