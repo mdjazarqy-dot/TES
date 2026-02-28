@@ -2,10 +2,10 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10000000,
+      "balance": 9960500,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
+      "online": true,
       "playing": null,
       "session": 0,
       "winRate": 50,
@@ -16,6 +16,14 @@
       "account": "",
       "banned": false,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Mahjong Ways",
+          "amount": 8000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772284369444
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -105,7 +113,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772277165915,
+      "lastSeen": 1772284369405,
       "_wst": {
         "w": 2,
         "l": 0
@@ -131,7 +139,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 80000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -147,5 +155,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 5,
+        "d2": 3,
+        "d3": 5,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772284355402
+      }
+    ],
+    "current": {
+      "d1": 5,
+      "d2": 3,
+      "d3": 5,
+      "total": 13,
+      "label": "13B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772284355402
+    }
+  }
 }
