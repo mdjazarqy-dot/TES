@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259154562,
+      "lastSeen": 1772259159559,
       "_wst": {
         "w": 0,
         "l": 2
@@ -119,6 +119,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 1,
+        "d2": 5,
+        "d3": 6,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772259157990
+      },
+      {
         "d1": 2,
         "d2": 5,
         "d3": 6,
@@ -190,14 +200,14 @@
       }
     ],
     "current": {
-      "d1": 2,
+      "d1": 1,
       "d2": 5,
       "d3": 6,
-      "total": 13,
-      "label": "13B",
+      "total": 12,
+      "label": "12B",
       "labelKey": "B",
       "isTriple": false,
-      "ts": 1772259137729
+      "ts": 1772259157990
     }
   },
   "sicBoForceBig": true,
