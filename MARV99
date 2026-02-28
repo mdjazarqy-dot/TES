@@ -15,7 +15,21 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258406583
+      "lastSeen": 1772258406583,
+      "_wst": {
+        "w": 0,
+        "l": 2
+      },
+      "transactions": [
+        {
+          "type": "game",
+          "name": "Mahjong Ways",
+          "amount": 12500,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772258400553
+        }
+      ]
     },
     "marv99": {
       "password": "owner2025",
@@ -40,12 +54,12 @@
   "revenue": 0,
   "pendingDeposits": [],
   "pendingWithdraws": [],
-  "lockedGames": [],
+  "gameImages": {},
+  "ownerMaint": false,
+  "ownerBroadcast": null,
+  "ownerJackpot": null,
   "settings": {},
-  "crashNext": null,
-  "crashRound": {
-    "history": []
-  },
+  "lockedGames": [],
   "sicboRound": {
     "history": [
       {
@@ -70,8 +84,7 @@
   "sicBoForceBig": false,
   "sicBoForceSmall": false,
   "sicBoForceTriple": false,
-  "ownerBroadcast": null,
-  "ownerJackpot": null,
-  "ownerMaint": false,
-  "gameImages": {}
+  "crashRound": {
+    "history": []
+  }
 }
