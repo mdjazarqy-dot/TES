@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": null,
+      "playing": "Spaceman",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260410753,
+      "lastSeen": 1772260415763,
       "transactions": [
         {
           "type": "game",
@@ -25,11 +25,7 @@
           "win": true,
           "ts": 1772160503671
         }
-      ],
-      "_wst": {
-        "w": 0,
-        "l": 1
-      }
+      ]
     },
     "marv99": {
       "password": "owner2025",
@@ -59,5 +55,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": []
+  "lockedGames": [],
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 6,
+        "d2": 1,
+        "d3": 4,
+        "total": 11,
+        "label": "11B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772260412717
+      }
+    ],
+    "current": {
+      "d1": 6,
+      "d2": 1,
+      "d3": 4,
+      "total": 11,
+      "label": "11B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772260412717
+    }
+  }
 }
