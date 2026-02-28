@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9992000,
+      "balance": 9970000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,25 +15,17 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258430408,
+      "lastSeen": 1772258435913,
       "_wst": {
         "w": 0,
-        "l": 1
+        "l": 2
       },
       "transactions": [
         {
           "type": "game",
           "name": "Mahjong Ways",
-          "amount": 2000,
-          "icon": "🏆",
-          "win": true,
-          "ts": 1772258430412
-        },
-        {
-          "type": "game",
-          "name": "Mahjong Ways",
           "amount": 12500,
-          "icon": "ÃÂ°ÃÂÃÂÃÂ",
+          "icon": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
           "win": true,
           "ts": 1772258400553
         }
@@ -59,7 +51,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 30000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
