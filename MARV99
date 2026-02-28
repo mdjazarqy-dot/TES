@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260465755,
+      "lastSeen": 1772260460754,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772260467062
+        },
         {
           "type": "game",
           "name": "Crash/Spaceman",
@@ -62,6 +70,10 @@
   "lockedGames": [],
   "crashRound": {
     "history": [
+      {
+        "v": 1000,
+        "ts": 1772260467062
+      },
       {
         "v": 6.91,
         "ts": 1772260432956
