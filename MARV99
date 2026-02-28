@@ -15,20 +15,12 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259189560,
+      "lastSeen": 1772259704087,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
-        {
-          "type": "game",
-          "name": "Crash/Spaceman",
-          "amount": -10000,
-          "icon": "🎮",
-          "win": false,
-          "ts": 1772259186707
-        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -123,124 +115,5 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": [],
-  "sicboRound": {
-    "history": [
-      {
-        "d1": 6,
-        "d2": 4,
-        "d3": 6,
-        "total": 16,
-        "label": "16B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259178194
-      },
-      {
-        "d1": 1,
-        "d2": 5,
-        "d3": 6,
-        "total": 12,
-        "label": "12B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259157990
-      },
-      {
-        "d1": 2,
-        "d2": 5,
-        "d3": 6,
-        "total": 13,
-        "label": "13B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259137729
-      },
-      {
-        "d1": 6,
-        "d2": 4,
-        "d3": 3,
-        "total": 13,
-        "label": "13B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259117522
-      },
-      {
-        "d1": 5,
-        "d2": 3,
-        "d3": 1,
-        "total": 9,
-        "label": "9K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772259097304
-      },
-      {
-        "d1": 6,
-        "d2": 1,
-        "d3": 4,
-        "total": 11,
-        "label": "11B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259077095
-      },
-      {
-        "d1": 4,
-        "d2": 5,
-        "d3": 4,
-        "total": 13,
-        "label": "13B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259056888
-      },
-      {
-        "d1": 4,
-        "d2": 4,
-        "d3": 4,
-        "total": 12,
-        "label": "12T",
-        "labelKey": "T",
-        "isTriple": true,
-        "ts": 1772259036679
-      },
-      {
-        "d1": 5,
-        "d2": 6,
-        "d3": 5,
-        "total": 16,
-        "label": "16B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772259016384
-      }
-    ],
-    "current": {
-      "d1": 6,
-      "d2": 4,
-      "d3": 6,
-      "total": 16,
-      "label": "16B",
-      "labelKey": "B",
-      "isTriple": false,
-      "ts": 1772259178194
-    }
-  },
-  "sicBoForceBig": true,
-  "sicBoForceSmall": false,
-  "sicBoForceTriple": false,
-  "crashRound": {
-    "history": [
-      {
-        "v": 9.17,
-        "ts": 1772259186707
-      },
-      {
-        "v": 1.81,
-        "ts": 1772259165766
-      }
-    ]
-  }
+  "lockedGames": []
 }
