@@ -14,7 +14,8 @@
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
-      "lastSeen": 1772258381583
+      "banned": false,
+      "lastSeen": 1772258406583
     },
     "marv99": {
       "password": "owner2025",
@@ -29,7 +30,8 @@
       "forceLose": false,
       "phone": "08999999999",
       "payment": "DANA",
-      "account": ""
+      "account": "",
+      "banned": false
     }
   },
   "globalWinRate": 50,
@@ -45,8 +47,24 @@
     "history": []
   },
   "sicboRound": {
-    "history": [],
-    "current": null
+    "history": [
+      {
+        "d1": 5,
+        "d2": 2,
+        "d3": 5,
+        "total": 12,
+        "label": "12(B)",
+        "ts": 1772258387584
+      }
+    ],
+    "current": {
+      "d1": 5,
+      "d2": 2,
+      "d3": 5,
+      "total": 12,
+      "label": "12(B)",
+      "ts": 1772258387584
+    }
   },
   "sicBoNext": null,
   "sicBoForceBig": false,
