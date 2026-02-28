@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10050000,
+      "balance": 9990000,
       "isOwner": true,
       "isAdmin": true,
-      "online": true,
-      "playing": null,
+      "online": false,
+      "playing": "Gates of Olympus",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -49,7 +49,11 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263199604
+      "lastSeen": 1772275891869,
+      "_wst": {
+        "w": 1,
+        "l": 0
+      }
     },
     "marv99": {
       "password": "owner2025",
@@ -71,7 +75,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 50000,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
