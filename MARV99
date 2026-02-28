@@ -5,7 +5,7 @@
       "balance": 9990000,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
+      "online": true,
       "playing": "Gates of Olympus",
       "session": 0,
       "winRate": 50,
@@ -49,7 +49,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275891869,
+      "lastSeen": 1772275918910,
       "_wst": {
         "w": 2,
         "l": 0
@@ -95,6 +95,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 4,
+        "d2": 3,
+        "d3": 6,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772275917040
+      },
+      {
         "d1": 1,
         "d2": 3,
         "d3": 6,
@@ -106,20 +116,22 @@
       }
     ],
     "current": {
-      "d1": 1,
+      "d1": 4,
       "d2": 3,
       "d3": 6,
-      "total": 10,
-      "label": "10K",
-      "labelKey": "K",
+      "total": 13,
+      "label": "13B",
+      "labelKey": "B",
       "isTriple": false,
-      "ts": 1772275896836
+      "ts": 1772275917040
     }
   },
-  "crashNext": {
-    "value": 2,
-    "game": "Spaceman",
-    "ts": 1772275910674,
-    "setBy": "owner"
+  "crashRound": {
+    "history": [
+      {
+        "v": 6.04,
+        "ts": 1772275922253
+      }
+    ]
   }
 }
