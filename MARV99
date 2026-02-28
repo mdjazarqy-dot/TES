@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10022500,
+      "balance": 10012500,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Spaceman",
+      "playing": null,
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -57,10 +57,10 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276866879,
+      "lastSeen": 1772276874574,
       "_wst": {
-        "w": 0,
-        "l": 1
+        "w": 2,
+        "l": 0
       }
     },
     "marv99": {
@@ -83,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -110,6 +110,16 @@
   },
   "sicboRound": {
     "history": [
+      {
+        "d1": 5,
+        "d2": 2,
+        "d3": 1,
+        "total": 8,
+        "label": "8K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772276874088
+      },
       {
         "d1": 5,
         "d2": 3,
@@ -143,13 +153,13 @@
     ],
     "current": {
       "d1": 5,
-      "d2": 3,
-      "d3": 5,
-      "total": 13,
-      "label": "13B",
-      "labelKey": "B",
+      "d2": 2,
+      "d3": 1,
+      "total": 8,
+      "label": "8K",
+      "labelKey": "K",
       "isTriple": false,
-      "ts": 1772276519578
+      "ts": 1772276874088
     }
   }
 }
