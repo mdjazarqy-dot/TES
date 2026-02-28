@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9982500,
+      "balance": 9992500,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -22,15 +22,7 @@
           "amount": 10000,
           "icon": "🎮",
           "win": false,
-          "ts": 1772276997223
-        },
-        {
-          "type": "game",
-          "name": "Sic Bo",
-          "amount": 10000,
-          "icon": "🎮",
-          "win": false,
-          "ts": 1772276977015
+          "ts": 1772277017432
         },
         {
           "type": "game",
@@ -73,10 +65,10 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772277001878,
+      "lastSeen": 1772277031883,
       "_wst": {
-        "w": 0,
-        "l": 1
+        "w": 1,
+        "l": 0
       }
     },
     "marv99": {
@@ -99,7 +91,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 40000,
+  "revenue": 30000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -119,24 +111,14 @@
   "sicboRound": {
     "history": [
       {
-        "d1": 5,
-        "d2": 5,
-        "d3": 2,
-        "total": 12,
-        "label": "12B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772276996021
-      },
-      {
-        "d1": 4,
-        "d2": 2,
-        "d3": 5,
-        "total": 11,
-        "label": "11B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772276975814
+        "d1": 6,
+        "d2": 6,
+        "d3": 6,
+        "total": 18,
+        "label": "18T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772277016229
       },
       {
         "d1": 2,
@@ -150,29 +132,22 @@
       }
     ],
     "current": {
-      "d1": 5,
-      "d2": 5,
-      "d3": 2,
-      "total": 12,
-      "label": "12B",
-      "labelKey": "B",
-      "isTriple": false,
-      "ts": 1772276996021
+      "d1": 6,
+      "d2": 6,
+      "d3": 6,
+      "total": 18,
+      "label": "18T",
+      "labelKey": "T",
+      "isTriple": true,
+      "ts": 1772277016229
     }
   },
   "crashRound": {
     "history": [
       {
-        "v": 8.63,
-        "ts": 1772276992240
-      },
-      {
-        "v": 1000,
-        "ts": 1772276973865
+        "v": 1.23,
+        "ts": 1772277018098
       }
     ]
-  },
-  "sicBoForceBig": false,
-  "sicBoForceSmall": false,
-  "sicBoForceTriple": true
+  }
 }
