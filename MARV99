@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 18166978,
+      "balance": 18176978,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,12 +15,20 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259129559,
+      "lastSeen": 1772259144559,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772259138959
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -99,7 +107,7 @@
   "globalWinRate": 40,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 100000,
+  "revenue": 110000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
@@ -110,6 +118,16 @@
   "lockedGames": [],
   "sicboRound": {
     "history": [
+      {
+        "d1": 2,
+        "d2": 5,
+        "d3": 6,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772259137729
+      },
       {
         "d1": 6,
         "d2": 4,
@@ -172,14 +190,14 @@
       }
     ],
     "current": {
-      "d1": 6,
-      "d2": 4,
-      "d3": 3,
+      "d1": 2,
+      "d2": 5,
+      "d3": 6,
       "total": 13,
       "label": "13B",
       "labelKey": "B",
       "isTriple": false,
-      "ts": 1772259117522
+      "ts": 1772259137729
     }
   },
   "sicBoForceBig": true,
