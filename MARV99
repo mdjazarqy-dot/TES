@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sic Bo / Dadu",
+      "playing": null,
       "session": 1772259014263,
       "winRate": 100,
       "forceWin": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259144559,
+      "lastSeen": 1772259149639,
       "_wst": {
         "w": 0,
         "l": 2
