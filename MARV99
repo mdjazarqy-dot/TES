@@ -2,12 +2,12 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 18206978,
+      "balance": 18176978,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
       "playing": "Sic Bo / Dadu",
-      "session": 1772258996789,
+      "session": 1772259014263,
       "winRate": 100,
       "forceWin": true,
       "forceLose": false,
@@ -15,12 +15,36 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259061584,
+      "lastSeen": 1772259084559,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772259078298
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772259058089
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772259037881
+        },
         {
           "type": "game",
           "name": "Crash/Spaceman",
@@ -67,7 +91,7 @@
   "globalWinRate": 40,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 60000,
+  "revenue": 90000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
@@ -79,45 +103,58 @@
   "sicboRound": {
     "history": [
       {
-        "d1": 1,
-        "d2": 6,
-        "d3": 5,
-        "total": 12,
-        "label": "12B",
+        "d1": 6,
+        "d2": 1,
+        "d3": 4,
+        "total": 11,
+        "label": "11B",
         "labelKey": "B",
         "isTriple": false,
-        "ts": 1772259053585
+        "ts": 1772259077095
       },
       {
         "d1": 4,
-        "d2": 1,
-        "d3": 5,
-        "total": 10,
-        "label": "10K",
-        "labelKey": "K",
+        "d2": 5,
+        "d3": 4,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
         "isTriple": false,
-        "ts": 1772259032583
+        "ts": 1772259056888
       },
       {
-        "d1": 1,
-        "d2": 1,
+        "d1": 4,
+        "d2": 4,
         "d3": 4,
-        "total": 6,
-        "label": "6K",
-        "labelKey": "K",
+        "total": 12,
+        "label": "12T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772259036679
+      },
+      {
+        "d1": 5,
+        "d2": 6,
+        "d3": 5,
+        "total": 16,
+        "label": "16B",
+        "labelKey": "B",
         "isTriple": false,
-        "ts": 1772259010586
+        "ts": 1772259016384
       }
     ],
     "current": {
-      "d1": 1,
-      "d2": 6,
-      "d3": 5,
-      "total": 12,
-      "label": "12B",
+      "d1": 6,
+      "d2": 1,
+      "d3": 4,
+      "total": 11,
+      "label": "11B",
       "labelKey": "B",
       "isTriple": false,
-      "ts": 1772259053585
+      "ts": 1772259077095
     }
-  }
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": true,
+  "sicBoForceTriple": false
 }
