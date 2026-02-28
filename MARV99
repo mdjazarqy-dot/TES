@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10012500,
+      "balance": 10002500,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276912375,
+      "lastSeen": 1772276926887,
       "_wst": {
         "w": 2,
         "l": 0
@@ -83,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 10000,
+  "revenue": 20000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -99,5 +99,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 2,
+        "d2": 4,
+        "d3": 4,
+        "total": 10,
+        "label": "10K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772276914931
+      }
+    ],
+    "current": {
+      "d1": 2,
+      "d2": 4,
+      "d3": 4,
+      "total": 10,
+      "label": "10K",
+      "labelKey": "K",
+      "isTriple": false,
+      "ts": 1772276914931
+    }
+  }
 }
