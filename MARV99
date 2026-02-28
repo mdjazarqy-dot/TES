@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9980000,
+      "balance": 9990000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,17 +15,17 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258419024,
+      "lastSeen": 1772258422268,
       "_wst": {
         "w": 0,
-        "l": 1
+        "l": 3
       },
       "transactions": [
         {
           "type": "game",
           "name": "Mahjong Ways",
           "amount": 12500,
-          "icon": "ð",
+          "icon": "Ã°ÂÂÂ",
           "win": true,
           "ts": 1772258400553
         }
@@ -51,7 +51,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
@@ -63,6 +63,14 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 6,
+        "d2": 2,
+        "d3": 5,
+        "total": 13,
+        "label": "13(B)",
+        "ts": 1772258422231
+      },
+      {
         "d1": 5,
         "d2": 2,
         "d3": 5,
@@ -72,12 +80,12 @@
       }
     ],
     "current": {
-      "d1": 5,
+      "d1": 6,
       "d2": 2,
       "d3": 5,
-      "total": 12,
-      "label": "12(B)",
-      "ts": 1772258387584
+      "total": 13,
+      "label": "13(B)",
+      "ts": 1772258422231
     }
   },
   "sicBoNext": null,
