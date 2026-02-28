@@ -5,8 +5,8 @@
       "balance": 9990000,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
-      "playing": "Gates of Olympus",
+      "online": true,
+      "playing": "Spaceman",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -49,7 +49,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275891869,
+      "lastSeen": 1772275904089,
       "_wst": {
         "w": 2,
         "l": 0
