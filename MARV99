@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275898906,
+      "lastSeen": 1772275938907,
       "_wst": {
         "w": 2,
         "l": 0
@@ -104,6 +104,16 @@
     "history": [
       {
         "d1": 1,
+        "d2": 1,
+        "d3": 2,
+        "total": 4,
+        "label": "4K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772275937246
+      },
+      {
+        "d1": 1,
         "d2": 3,
         "d3": 6,
         "total": 10,
@@ -115,13 +125,13 @@
     ],
     "current": {
       "d1": 1,
-      "d2": 3,
-      "d3": 6,
-      "total": 10,
-      "label": "10K",
+      "d2": 1,
+      "d3": 2,
+      "total": 4,
+      "label": "4K",
       "labelKey": "K",
       "isTriple": false,
-      "ts": 1772275896836
+      "ts": 1772275937246
     }
   },
   "crashRound": {
@@ -131,11 +141,5 @@
         "ts": 1772275922253
       }
     ]
-  },
-  "crashNext": {
-    "value": 1000,
-    "game": "Spaceman",
-    "ts": 1772275935588,
-    "setBy": "owner"
   }
 }
