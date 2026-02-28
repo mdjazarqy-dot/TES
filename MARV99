@@ -5,8 +5,8 @@
       "balance": 18166978,
       "isOwner": true,
       "isAdmin": true,
-      "online": true,
-      "playing": "Spaceman",
+      "online": false,
+      "playing": null,
       "session": 1772259014263,
       "winRate": 100,
       "forceWin": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772259704087,
+      "lastSeen": 1772259709081,
       "_wst": {
         "w": 0,
         "l": 2
