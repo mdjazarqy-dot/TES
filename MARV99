@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772276886880,
+      "lastSeen": 1772276874574,
       "_wst": {
         "w": 2,
         "l": 0
@@ -99,5 +99,83 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "crashRound": {
+    "history": [
+      {
+        "v": 6.04,
+        "ts": 1772275922253
+      }
+    ]
+  },
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 4,
+        "d2": 3,
+        "d3": 5,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276894729
+      },
+      {
+        "d1": 5,
+        "d2": 2,
+        "d3": 1,
+        "total": 8,
+        "label": "8K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772276874088
+      },
+      {
+        "d1": 5,
+        "d2": 3,
+        "d3": 5,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772276519578
+      },
+      {
+        "d1": 1,
+        "d2": 1,
+        "d3": 2,
+        "total": 4,
+        "label": "4K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772275937246
+      },
+      {
+        "d1": 1,
+        "d2": 3,
+        "d3": 6,
+        "total": 10,
+        "label": "10K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772275896836
+      }
+    ],
+    "current": {
+      "d1": 4,
+      "d2": 3,
+      "d3": 5,
+      "total": 12,
+      "label": "12B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772276894729
+    }
+  },
+  "crashNext": {
+    "value": 1000,
+    "game": "Spaceman",
+    "ts": 1772276894706,
+    "setBy": "owner"
+  }
 }
