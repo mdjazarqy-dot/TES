@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260435761,
+      "lastSeen": 1772260420754,
       "transactions": [
         {
           "type": "game",
@@ -60,36 +60,5 @@
   "ownerJackpot": 0,
   "settings": {},
   "lockedGames": [],
-  "crashRound": {
-    "history": [
-      {
-        "v": 6.91,
-        "ts": 1772260432956
-      }
-    ]
-  },
-  "sicboRound": {
-    "history": [
-      {
-        "d1": 2,
-        "d2": 2,
-        "d3": 3,
-        "total": 7,
-        "label": "7K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772260433138
-      }
-    ],
-    "current": {
-      "d1": 2,
-      "d2": 2,
-      "d3": 3,
-      "total": 7,
-      "label": "7K",
-      "labelKey": "K",
-      "isTriple": false,
-      "ts": 1772260433138
-    }
-  }
+  "crashNext": null
 }
