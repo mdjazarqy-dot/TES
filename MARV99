@@ -39,10 +39,10 @@
   "revenue": 0,
   "pendingDeposits": [],
   "pendingWithdraws": [],
-  "gameImages": {},
   "ownerMaint": false,
   "ownerBroadcast": null,
   "ownerJackpot": 0,
+  "lockedGames": {},
   "settings": {},
-  "lockedGames": {}
+  "gameImages": {}
 }
