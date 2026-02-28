@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 18106978,
+      "balance": 18206978,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,12 +15,20 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258583752,
+      "lastSeen": 1772258585275,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 90000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772258585303
+        },
         {
           "type": "game",
           "name": "Crash/Spaceman",
@@ -79,6 +87,14 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 2,
+        "d2": 2,
+        "d3": 2,
+        "total": 6,
+        "label": "6(K)★",
+        "ts": 1772258584075
+      },
+      {
         "d1": 4,
         "d2": 3,
         "d3": 3,
@@ -112,12 +128,12 @@
       }
     ],
     "current": {
-      "d1": 4,
-      "d2": 3,
-      "d3": 3,
-      "total": 10,
-      "label": "10(K)",
-      "ts": 1772258563840
+      "d1": 2,
+      "d2": 2,
+      "d3": 2,
+      "total": 6,
+      "label": "6(K)★",
+      "ts": 1772258584075
     }
   },
   "sicBoNext": null,
