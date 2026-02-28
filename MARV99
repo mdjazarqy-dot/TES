@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9980000,
+      "balance": 18116978,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,12 +15,20 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258543751,
+      "lastSeen": 1772258563754,
       "_wst": {
         "w": 0,
         "l": 2
       },
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": 8126978,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772258562996
+        },
         {
           "type": "game",
           "name": "Mahjong Ways",
@@ -71,6 +79,14 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 4,
+        "d2": 3,
+        "d3": 3,
+        "total": 10,
+        "label": "10(K)",
+        "ts": 1772258563840
+      },
+      {
         "d1": 5,
         "d2": 3,
         "d3": 6,
@@ -96,12 +112,12 @@
       }
     ],
     "current": {
-      "d1": 5,
+      "d1": 4,
       "d2": 3,
-      "d3": 6,
-      "total": 14,
-      "label": "14(B)",
-      "ts": 1772258543635
+      "d3": 3,
+      "total": 10,
+      "label": "10(K)",
+      "ts": 1772258563840
     }
   },
   "sicBoNext": null,
@@ -109,7 +125,11 @@
   "sicBoForceSmall": false,
   "sicBoForceTriple": false,
   "crashRound": {
-    "history": []
-  },
-  "crashNext": null
+    "history": [
+      {
+        "v": 1000,
+        "ts": 1772258563595
+      }
+    ]
+  }
 }
