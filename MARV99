@@ -5,7 +5,7 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": true,
+      "online": false,
       "playing": null,
       "session": 0,
       "winRate": 50,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260405755,
+      "lastSeen": 1772160564504,
       "transactions": [
         {
           "type": "game",
