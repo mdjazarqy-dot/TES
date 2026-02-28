@@ -5,16 +5,17 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
+      "online": true,
       "playing": null,
-      "session": 0,
+      "session": 1772263000925,
       "winRate": 50,
       "forceWin": false,
       "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
-      "banned": false
+      "banned": false,
+      "lastSeen": 1772263001759
     },
     "marv99": {
       "password": "owner2025",
