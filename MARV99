@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": null,
+      "playing": "Spaceman",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -57,7 +57,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275895248,
+      "lastSeen": 1772275898906,
       "_wst": {
         "w": 1,
         "l": 0
@@ -99,5 +99,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 1,
+        "d2": 3,
+        "d3": 6,
+        "total": 10,
+        "label": "10K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772275896836
+      }
+    ],
+    "current": {
+      "d1": 1,
+      "d2": 3,
+      "d3": 6,
+      "total": 10,
+      "label": "10K",
+      "labelKey": "K",
+      "isTriple": false,
+      "ts": 1772275896836
+    }
+  }
 }
