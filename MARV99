@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9990000,
+      "balance": 9980000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Spaceman",
+      "playing": null,
       "session": 0,
       "winRate": 100,
       "forceWin": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772258500222,
+      "lastSeen": 1772258506408,
       "_wst": {
         "w": 0,
         "l": 2
@@ -59,7 +59,7 @@
   "globalWinRate": 40,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 40000,
+  "revenue": 50000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {},
@@ -70,6 +70,14 @@
   "lockedGames": [],
   "sicboRound": {
     "history": [
+      {
+        "d1": 2,
+        "d2": 1,
+        "d3": 6,
+        "total": 9,
+        "label": "9(K)",
+        "ts": 1772258503217
+      },
       {
         "d1": 2,
         "d2": 2,
@@ -89,11 +97,11 @@
     ],
     "current": {
       "d1": 2,
-      "d2": 2,
-      "d3": 2,
-      "total": 6,
-      "label": "6(K)ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
-      "ts": 1772258462808
+      "d2": 1,
+      "d3": 6,
+      "total": 9,
+      "label": "9(K)",
+      "ts": 1772258503217
     }
   },
   "sicBoNext": null,
