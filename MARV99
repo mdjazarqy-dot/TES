@@ -5,9 +5,9 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": true,
+      "online": false,
       "playing": null,
-      "session": 1772263000925,
+      "session": 0,
       "winRate": 50,
       "forceWin": false,
       "forceLose": false,
@@ -15,7 +15,17 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772263001759
+      "lastSeen": 1772263051759,
+      "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772263035609
+        }
+      ]
     },
     "marv99": {
       "password": "owner2025",
@@ -53,5 +63,42 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 6,
+        "d2": 6,
+        "d3": 1,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772263034403
+      },
+      {
+        "d1": 5,
+        "d2": 2,
+        "d3": 2,
+        "total": 9,
+        "label": "9K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772263014190
+      }
+    ],
+    "current": {
+      "d1": 6,
+      "d2": 6,
+      "d3": 1,
+      "total": 13,
+      "label": "13B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772263034403
+    }
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true
 }
