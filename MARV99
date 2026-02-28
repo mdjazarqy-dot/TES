@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772260455790,
+      "lastSeen": 1772260460754,
       "transactions": [
         {
           "type": "game",
@@ -71,6 +71,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 6,
+        "d2": 6,
+        "d3": 1,
+        "total": 13,
+        "label": "13B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772260453393
+      },
+      {
         "d1": 2,
         "d2": 2,
         "d3": 3,
@@ -82,14 +92,14 @@
       }
     ],
     "current": {
-      "d1": 2,
-      "d2": 2,
-      "d3": 3,
-      "total": 7,
-      "label": "7K",
-      "labelKey": "K",
+      "d1": 6,
+      "d2": 6,
+      "d3": 1,
+      "total": 13,
+      "label": "13B",
+      "labelKey": "B",
       "isTriple": false,
-      "ts": 1772260433138
+      "ts": 1772260453393
     }
   }
 }
