@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10022500,
+      "balance": 9990000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Spaceman",
+      "playing": "Gates of Olympus",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -16,14 +16,6 @@
       "account": "",
       "banned": false,
       "transactions": [
-        {
-          "type": "game",
-          "name": "Gates of Olympus",
-          "amount": 12500,
-          "icon": "🏆",
-          "win": true,
-          "ts": 1772275893962
-        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -57,7 +49,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772275943906,
+      "lastSeen": 1772275948909,
       "_wst": {
         "w": 2,
         "l": 0
@@ -83,7 +75,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 10000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -104,16 +96,6 @@
     "history": [
       {
         "d1": 1,
-        "d2": 1,
-        "d3": 2,
-        "total": 4,
-        "label": "4K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772275937246
-      },
-      {
-        "d1": 1,
         "d2": 3,
         "d3": 6,
         "total": 10,
@@ -125,25 +107,19 @@
     ],
     "current": {
       "d1": 1,
-      "d2": 1,
-      "d3": 2,
-      "total": 4,
-      "label": "4K",
+      "d2": 3,
+      "d3": 6,
+      "total": 10,
+      "label": "10K",
       "labelKey": "K",
       "isTriple": false,
-      "ts": 1772275937246
+      "ts": 1772275896836
     }
   },
-  "crashRound": {
-    "history": [
-      {
-        "v": 2,
-        "ts": 1772275942529
-      },
-      {
-        "v": 6.04,
-        "ts": 1772275922253
-      }
-    ]
+  "crashNext": {
+    "value": 2,
+    "game": "Spaceman",
+    "ts": 1772275910674,
+    "setBy": "owner"
   }
 }
