@@ -22,6 +22,14 @@
           "amount": 10000,
           "icon": "🎮",
           "win": false,
+          "ts": 1772263096817
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
           "ts": 1772263076613
         },
         {
@@ -33,7 +41,7 @@
           "ts": 1772263056408
         }
       ],
-      "lastSeen": 1772263086778
+      "lastSeen": 1772263096758
     },
     "marv99": {
       "password": "owner2025",
@@ -75,6 +83,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 2,
+        "d2": 5,
+        "d3": 3,
+        "total": 10,
+        "label": "10K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772263095616
+      },
+      {
         "d1": 4,
         "d2": 3,
         "d3": 4,
@@ -86,14 +104,14 @@
       }
     ],
     "current": {
-      "d1": 4,
-      "d2": 3,
-      "d3": 4,
-      "total": 11,
-      "label": "11B",
-      "labelKey": "B",
+      "d1": 2,
+      "d2": 5,
+      "d3": 3,
+      "total": 10,
+      "label": "10K",
+      "labelKey": "K",
       "isTriple": false,
-      "ts": 1772263075411
+      "ts": 1772263095616
     }
   }
 }
