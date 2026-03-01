@@ -14,7 +14,30 @@
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
-      "banned": false
+      "banned": false,
+      "lastSeen": 1772365606224,
+      "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772365612645
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772365538495
+        }
+      ],
+      "_wst": {
+        "w": 1,
+        "l": 0
+      }
     },
     "marv99": {
       "password": "owner2025",
@@ -41,5 +64,52 @@
   "pendingWithdraws": [],
   "ownerMaint": false,
   "ownerBroadcast": null,
-  "ownerJackpot": 0
+  "ownerJackpot": 0,
+  "crashRound": {
+    "history": [
+      {
+        "v": 1000,
+        "ts": 1772365612645
+      },
+      {
+        "v": 1.95,
+        "ts": 1772365580192
+      }
+    ]
+  },
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 5,
+        "d2": 4,
+        "d3": 3,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772365537294
+      },
+      {
+        "d1": 2,
+        "d2": 4,
+        "d3": 5,
+        "total": 11,
+        "label": "11B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772365476678
+      }
+    ],
+    "current": {
+      "d1": 5,
+      "d2": 4,
+      "d3": 3,
+      "total": 12,
+      "label": "12B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772365537294
+    }
+  },
+  "lockedGames": []
 }
