@@ -5,8 +5,8 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
-      "playing": null,
+      "online": true,
+      "playing": "Sweet Bonanza",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375677459,
+      "lastSeen": 1772375687639,
       "transactions": [
         {
           "type": "game",
@@ -67,5 +67,29 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 1,
+        "d2": 1,
+        "d3": 5,
+        "total": 7,
+        "label": "7K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772375689993
+      }
+    ],
+    "current": {
+      "d1": 1,
+      "d2": 1,
+      "d3": 5,
+      "total": 7,
+      "label": "7K",
+      "labelKey": "K",
+      "isTriple": false,
+      "ts": 1772375689993
+    }
+  }
 }
