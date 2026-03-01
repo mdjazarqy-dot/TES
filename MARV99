@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10178000,
+      "balance": 10168000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375835846,
+      "lastSeen": 1772375857459,
       "transactions": [
         {
           "type": "game",
@@ -83,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 60000,
+  "revenue": 70000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -167,10 +167,5 @@
   "sicBoForceBig": false,
   "sicBoForceSmall": false,
   "sicBoForceTriple": true,
-  "crashNext": {
-    "value": 1000,
-    "game": "Spaceman",
-    "ts": 1772375853889,
-    "setBy": "owner"
-  }
+  "crashNext": null
 }
