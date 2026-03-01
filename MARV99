@@ -103,6 +103,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 6,
+        "d2": 3,
+        "d3": 1,
+        "total": 10,
+        "label": "10K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772349693412
+      },
+      {
         "d1": 3,
         "d2": 5,
         "d3": 3,
@@ -124,14 +134,14 @@
       }
     ],
     "current": {
-      "d1": 3,
-      "d2": 5,
-      "d3": 3,
-      "total": 11,
-      "label": "11B",
-      "labelKey": "B",
+      "d1": 6,
+      "d2": 3,
+      "d3": 1,
+      "total": 10,
+      "label": "10K",
+      "labelKey": "K",
       "isTriple": false,
-      "ts": 1772349672017
+      "ts": 1772349693412
     }
   }
 }
