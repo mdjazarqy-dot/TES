@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772365581218,
+      "lastSeen": 1772365576214,
       "transactions": [
         {
           "type": "game",
@@ -91,12 +91,7 @@
       "ts": 1772365537294
     }
   },
-  "crashNext": {
-    "value": 1000,
-    "game": "Spaceman",
-    "ts": 1772365579748,
-    "setBy": "owner"
-  },
+  "crashNext": null,
   "crashRound": {
     "history": [
       {
