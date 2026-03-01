@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sic Bo / Dadu",
+      "playing": "Spaceman",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772365571225,
+      "lastSeen": 1772365576214,
       "transactions": [
         {
           "type": "game",
@@ -25,7 +25,11 @@
           "win": false,
           "ts": 1772365538495
         }
-      ]
+      ],
+      "_wst": {
+        "w": 1,
+        "l": 0
+      }
     },
     "marv99": {
       "password": "owner2025",
