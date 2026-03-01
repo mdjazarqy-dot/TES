@@ -14,7 +14,30 @@
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
-      "banned": false
+      "banned": false,
+      "lastSeen": 1772365606224,
+      "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772365612645
+        },
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772365538495
+        }
+      ],
+      "_wst": {
+        "w": 1,
+        "l": 0
+      }
     },
     "marv99": {
       "password": "owner2025",
@@ -39,7 +62,10 @@
   "revenue": 0,
   "pendingDeposits": [],
   "pendingWithdraws": [],
+  "gameImages": {},
   "ownerMaint": false,
   "ownerBroadcast": null,
-  "ownerJackpot": 0
+  "ownerJackpot": 0,
+  "settings": {},
+  "lockedGames": []
 }
