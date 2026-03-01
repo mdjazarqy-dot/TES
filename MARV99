@@ -8,14 +8,14 @@
       "online": true,
       "playing": "Sweet Bonanza",
       "session": 0,
-      "winRate": 90,
+      "winRate": 100,
       "forceWin": true,
       "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375722457,
+      "lastSeen": 1772375727457,
       "transactions": [
         {
           "type": "game",
