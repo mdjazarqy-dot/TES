@@ -2,36 +2,36 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9978000,
+      "balance": 10030000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sweet Bonanza",
+      "playing": null,
       "session": 0,
-      "winRate": 97,
-      "forceWin": false,
-      "forceLose": true,
+      "winRate": 100,
+      "forceWin": true,
+      "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375754932,
+      "lastSeen": 1772375736288,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 20000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375736326
+        },
         {
           "type": "game",
           "name": "Sweet Bonanza",
           "amount": 10000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375745365
-        },
-        {
-          "type": "game",
-          "name": "Sweet Bonanza",
-          "amount": 8000,
-          "icon": "🏆",
-          "win": true,
-          "ts": 1772375713063
+          "ts": 1772375733461
         },
         {
           "type": "game",
@@ -43,8 +43,8 @@
         }
       ],
       "_wst": {
-        "w": 0,
-        "l": 2
+        "w": 1,
+        "l": 0
       }
     },
     "marv99": {
@@ -67,7 +67,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 60000,
+  "revenue": 20000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -87,45 +87,25 @@
   "sicboRound": {
     "history": [
       {
-        "d1": 3,
-        "d2": 3,
-        "d3": 1,
-        "total": 7,
-        "label": "7K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772375750619
-      },
-      {
-        "d1": 4,
-        "d2": 6,
-        "d3": 2,
-        "total": 12,
-        "label": "12B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772375710197
-      },
-      {
-        "d1": 1,
+        "d1": 2,
         "d2": 1,
-        "d3": 5,
-        "total": 7,
-        "label": "7K",
+        "d3": 1,
+        "total": 4,
+        "label": "4K",
         "labelKey": "K",
         "isTriple": false,
-        "ts": 1772375689993
+        "ts": 1772375730411
       }
     ],
     "current": {
-      "d1": 3,
-      "d2": 3,
+      "d1": 2,
+      "d2": 1,
       "d3": 1,
-      "total": 7,
-      "label": "7K",
+      "total": 4,
+      "label": "4K",
       "labelKey": "K",
       "isTriple": false,
-      "ts": 1772375750619
+      "ts": 1772375730411
     }
   }
 }
