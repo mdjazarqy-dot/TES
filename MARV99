@@ -2,11 +2,11 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10000000,
+      "balance": 9988000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": null,
+      "playing": "Sweet Bonanza",
       "session": 0,
       "winRate": 90,
       "forceWin": true,
@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375707457,
+      "lastSeen": 1772375722457,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 8000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375713063
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -27,8 +35,8 @@
         }
       ],
       "_wst": {
-        "w": 1,
-        "l": 0
+        "w": 0,
+        "l": 2
       }
     },
     "marv99": {
@@ -51,7 +59,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 0,
+  "revenue": 30000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -67,5 +75,39 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {}
+  "lockedGames": {},
+  "sicboRound": {
+    "history": [
+      {
+        "d1": 4,
+        "d2": 6,
+        "d3": 2,
+        "total": 12,
+        "label": "12B",
+        "labelKey": "B",
+        "isTriple": false,
+        "ts": 1772375710197
+      },
+      {
+        "d1": 1,
+        "d2": 1,
+        "d3": 5,
+        "total": 7,
+        "label": "7K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772375689993
+      }
+    ],
+    "current": {
+      "d1": 4,
+      "d2": 6,
+      "d3": 2,
+      "total": 12,
+      "label": "12B",
+      "labelKey": "B",
+      "isTriple": false,
+      "ts": 1772375710197
+    }
+  }
 }
