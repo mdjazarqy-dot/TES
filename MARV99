@@ -5,7 +5,7 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": true,
+      "online": false,
       "playing": null,
       "session": 0,
       "winRate": 50,
