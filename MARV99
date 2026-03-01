@@ -2,44 +2,44 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10022000,
+      "balance": 10168000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
       "playing": null,
       "session": 0,
-      "winRate": 93,
-      "forceWin": true,
-      "forceLose": false,
+      "winRate": 97,
+      "forceWin": false,
+      "forceLose": true,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375902458,
+      "lastSeen": 1772375887458,
       "transactions": [
         {
           "type": "game",
-          "name": "Sic Bo",
-          "amount": 10000,
+          "name": "Crash/Spaceman",
+          "amount": -10000,
           "icon": "🎮",
           "win": false,
-          "ts": 1772375792352
+          "ts": 1772375884861
         },
         {
           "type": "game",
-          "name": "Sweet Bonanza",
-          "amount": 2000,
+          "name": "Sic Bo",
+          "amount": 90000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375766519
+          "ts": 1772375832917
         },
         {
           "type": "game",
-          "name": "Sweet Bonanza",
-          "amount": 20000,
+          "name": "Sic Bo",
+          "amount": 90000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375736326
+          "ts": 1772375812631
         },
         {
           "type": "game",
@@ -47,7 +47,15 @@
           "amount": 10000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375733461
+          "ts": 1772375745365
+        },
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 8000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375713063
         },
         {
           "type": "game",
@@ -59,8 +67,8 @@
         }
       ],
       "_wst": {
-        "w": 1,
-        "l": 0
+        "w": 0,
+        "l": 2
       }
     },
     "marv99": {
@@ -83,7 +91,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 40000,
+  "revenue": 70000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -103,14 +111,44 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 3,
+        "d2": 3,
+        "d3": 3,
+        "total": 9,
+        "label": "9T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772375831664
+      },
+      {
         "d1": 6,
-        "d2": 4,
+        "d2": 6,
         "d3": 6,
-        "total": 16,
-        "label": "16B",
+        "total": 18,
+        "label": "18T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772375811357
+      },
+      {
+        "d1": 3,
+        "d2": 3,
+        "d3": 1,
+        "total": 7,
+        "label": "7K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772375750619
+      },
+      {
+        "d1": 4,
+        "d2": 6,
+        "d3": 2,
+        "total": 12,
+        "label": "12B",
         "labelKey": "B",
         "isTriple": false,
-        "ts": 1772375872902
+        "ts": 1772375710197
       },
       {
         "d1": 1,
@@ -120,36 +158,29 @@
         "label": "7K",
         "labelKey": "K",
         "isTriple": false,
-        "ts": 1772375791151
-      },
-      {
-        "d1": 2,
-        "d2": 1,
-        "d3": 1,
-        "total": 4,
-        "label": "4K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772375730411
+        "ts": 1772375689993
       }
     ],
     "current": {
-      "d1": 6,
-      "d2": 4,
-      "d3": 6,
-      "total": 16,
-      "label": "16B",
-      "labelKey": "B",
-      "isTriple": false,
-      "ts": 1772375872902
+      "d1": 3,
+      "d2": 3,
+      "d3": 3,
+      "total": 9,
+      "label": "9T",
+      "labelKey": "T",
+      "isTriple": true,
+      "ts": 1772375831664
     }
   },
   "crashRound": {
     "history": [
       {
-        "v": 1.2,
-        "ts": 1772375897421
+        "v": 1000,
+        "ts": 1772375884861
       }
     ]
-  }
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true
 }
