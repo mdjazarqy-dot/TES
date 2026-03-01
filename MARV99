@@ -2,28 +2,44 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10078000,
+      "balance": 10032000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sic Bo / Dadu",
+      "playing": null,
       "session": 0,
-      "winRate": 97,
-      "forceWin": false,
-      "forceLose": true,
+      "winRate": 93,
+      "forceWin": true,
+      "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375812568,
+      "lastSeen": 1772375792458,
       "transactions": [
         {
           "type": "game",
           "name": "Sic Bo",
-          "amount": 90000,
+          "amount": 10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772375792352
+        },
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 2000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375812631
+          "ts": 1772375766519
+        },
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 20000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375736326
         },
         {
           "type": "game",
@@ -31,15 +47,7 @@
           "amount": 10000,
           "icon": "🏆",
           "win": true,
-          "ts": 1772375745365
-        },
-        {
-          "type": "game",
-          "name": "Sweet Bonanza",
-          "amount": 8000,
-          "icon": "🏆",
-          "win": true,
-          "ts": 1772375713063
+          "ts": 1772375733461
         },
         {
           "type": "game",
@@ -51,8 +59,8 @@
         }
       ],
       "_wst": {
-        "w": 0,
-        "l": 2
+        "w": 1,
+        "l": 0
       }
     },
     "marv99": {
@@ -75,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 60000,
+  "revenue": 30000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -95,36 +103,6 @@
   "sicboRound": {
     "history": [
       {
-        "d1": 6,
-        "d2": 6,
-        "d3": 6,
-        "total": 18,
-        "label": "18T",
-        "labelKey": "T",
-        "isTriple": true,
-        "ts": 1772375811357
-      },
-      {
-        "d1": 3,
-        "d2": 3,
-        "d3": 1,
-        "total": 7,
-        "label": "7K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772375750619
-      },
-      {
-        "d1": 4,
-        "d2": 6,
-        "d3": 2,
-        "total": 12,
-        "label": "12B",
-        "labelKey": "B",
-        "isTriple": false,
-        "ts": 1772375710197
-      },
-      {
         "d1": 1,
         "d2": 1,
         "d3": 5,
@@ -132,21 +110,28 @@
         "label": "7K",
         "labelKey": "K",
         "isTriple": false,
-        "ts": 1772375689993
+        "ts": 1772375791151
+      },
+      {
+        "d1": 2,
+        "d2": 1,
+        "d3": 1,
+        "total": 4,
+        "label": "4K",
+        "labelKey": "K",
+        "isTriple": false,
+        "ts": 1772375730411
       }
     ],
     "current": {
-      "d1": 6,
-      "d2": 6,
-      "d3": 6,
-      "total": 18,
-      "label": "18T",
-      "labelKey": "T",
-      "isTriple": true,
-      "ts": 1772375811357
+      "d1": 1,
+      "d2": 1,
+      "d3": 5,
+      "total": 7,
+      "label": "7K",
+      "labelKey": "K",
+      "isTriple": false,
+      "ts": 1772375791151
     }
-  },
-  "sicBoForceBig": false,
-  "sicBoForceSmall": false,
-  "sicBoForceTriple": true
+  }
 }
