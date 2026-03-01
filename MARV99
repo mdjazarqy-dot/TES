@@ -8,14 +8,14 @@
       "online": true,
       "playing": null,
       "session": 0,
-      "winRate": 50,
+      "winRate": 90,
       "forceWin": true,
       "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375702464,
+      "lastSeen": 1772375707457,
       "transactions": [
         {
           "type": "game",
