@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sweet Bonanza",
+      "playing": "Sic Bo / Dadu",
       "session": 0,
       "winRate": 97,
       "forceWin": false,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375772460,
+      "lastSeen": 1772375777457,
       "transactions": [
         {
           "type": "game",
@@ -127,5 +127,8 @@
       "isTriple": false,
       "ts": 1772375750619
     }
-  }
+  },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true
 }
