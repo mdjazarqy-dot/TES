@@ -5,8 +5,8 @@
       "balance": 10000000,
       "isOwner": true,
       "isAdmin": true,
-      "online": false,
-      "playing": null,
+      "online": true,
+      "playing": "Sic Bo / Dadu",
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -14,7 +14,8 @@
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
-      "banned": false
+      "banned": false,
+      "lastSeen": 1772365473974
     },
     "marv99": {
       "password": "owner2025",
