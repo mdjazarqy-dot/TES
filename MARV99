@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772376022458,
+      "lastSeen": 1772376027457,
       "transactions": [
         {
           "type": "game",
@@ -162,6 +162,10 @@
   },
   "crashRound": {
     "history": [
+      {
+        "v": 1.75,
+        "ts": 1772376026444
+      },
       {
         "v": 1.02,
         "ts": 1772375986709
