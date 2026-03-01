@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10168000,
+      "balance": 10138000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375957461,
+      "lastSeen": 1772375969616,
       "transactions": [
         {
           "type": "game",
@@ -91,7 +91,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 70000,
+  "revenue": 100000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -198,6 +198,10 @@
   "crashNext": null,
   "crashRound": {
     "history": [
+      {
+        "v": 8.37,
+        "ts": 1772375961000
+      },
       {
         "v": 9.24,
         "ts": 1772375916136
