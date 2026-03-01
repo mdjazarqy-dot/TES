@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10030000,
+      "balance": 10042000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,8 +15,24 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375736288,
+      "lastSeen": 1772375742921,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 20000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375742049
+        },
+        {
+          "type": "game",
+          "name": "Sweet Bonanza",
+          "amount": 2000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375739154
+        },
         {
           "type": "game",
           "name": "Sweet Bonanza",
@@ -67,7 +83,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 20000,
+  "revenue": 50000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
