@@ -9,13 +9,13 @@
       "playing": null,
       "session": 0,
       "winRate": 50,
-      "forceWin": false,
+      "forceWin": true,
       "forceLose": false,
       "phone": "08000000000",
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375677459,
+      "lastSeen": 1772375702464,
       "transactions": [
         {
           "type": "game",
@@ -67,29 +67,5 @@
   "ownerBroadcast": null,
   "ownerJackpot": 0,
   "settings": {},
-  "lockedGames": {},
-  "sicboRound": {
-    "history": [
-      {
-        "d1": 1,
-        "d2": 1,
-        "d3": 5,
-        "total": 7,
-        "label": "7K",
-        "labelKey": "K",
-        "isTriple": false,
-        "ts": 1772375689993
-      }
-    ],
-    "current": {
-      "d1": 1,
-      "d2": 1,
-      "d3": 5,
-      "total": 7,
-      "label": "7K",
-      "labelKey": "K",
-      "isTriple": false,
-      "ts": 1772375689993
-    }
-  }
+  "lockedGames": {}
 }
