@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10032000,
+      "balance": 10067000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375927738,
+      "lastSeen": 1772375947462,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Gates of Olympus",
+          "amount": 35000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375947078
+        },
         {
           "type": "game",
           "name": "Gates of Olympus",
@@ -91,7 +99,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 60000,
+  "revenue": 70000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -152,10 +160,6 @@
       "ts": 1772375872902
     }
   },
-  "sicBoForceBig": false,
-  "sicBoForceSmall": false,
-  "sicBoForceTriple": true,
-  "crashNext": null,
   "crashRound": {
     "history": [
       {
