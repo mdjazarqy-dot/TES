@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375887458,
+      "lastSeen": 1772375912457,
       "transactions": [
         {
           "type": "game",
@@ -111,6 +111,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 1,
+        "d2": 1,
+        "d3": 1,
+        "total": 3,
+        "label": "3T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772375913326
+      },
+      {
         "d1": 3,
         "d2": 3,
         "d3": 3,
@@ -162,25 +172,30 @@
       }
     ],
     "current": {
-      "d1": 3,
-      "d2": 3,
-      "d3": 3,
-      "total": 9,
-      "label": "9T",
+      "d1": 1,
+      "d2": 1,
+      "d3": 1,
+      "total": 3,
+      "label": "3T",
       "labelKey": "T",
       "isTriple": true,
-      "ts": 1772375831664
+      "ts": 1772375913326
     }
   },
+  "sicBoForceBig": false,
+  "sicBoForceSmall": false,
+  "sicBoForceTriple": true,
+  "crashNext": null,
   "crashRound": {
     "history": [
+      {
+        "v": 9.24,
+        "ts": 1772375916136
+      },
       {
         "v": 1000,
         "ts": 1772375884861
       }
     ]
-  },
-  "sicBoForceBig": false,
-  "sicBoForceSmall": false,
-  "sicBoForceTriple": true
+  }
 }
