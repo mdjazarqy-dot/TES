@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 9978000,
+      "balance": 10078000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375777457,
+      "lastSeen": 1772375812568,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Sic Bo",
+          "amount": 90000,
+          "icon": "🏆",
+          "win": true,
+          "ts": 1772375812631
+        },
         {
           "type": "game",
           "name": "Sweet Bonanza",
@@ -87,6 +95,16 @@
   "sicboRound": {
     "history": [
       {
+        "d1": 6,
+        "d2": 6,
+        "d3": 6,
+        "total": 18,
+        "label": "18T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772375811357
+      },
+      {
         "d1": 3,
         "d2": 3,
         "d3": 1,
@@ -118,14 +136,14 @@
       }
     ],
     "current": {
-      "d1": 3,
-      "d2": 3,
-      "d3": 1,
-      "total": 7,
-      "label": "7K",
-      "labelKey": "K",
-      "isTriple": false,
-      "ts": 1772375750619
+      "d1": 6,
+      "d2": 6,
+      "d3": 6,
+      "total": 18,
+      "label": "18T",
+      "labelKey": "T",
+      "isTriple": true,
+      "ts": 1772375811357
     }
   },
   "sicBoForceBig": false,
