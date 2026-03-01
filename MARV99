@@ -2,7 +2,7 @@
   "users": {
     "jepin": {
       "password": "28282811",
-      "balance": 10138000,
+      "balance": 10128000,
       "isOwner": true,
       "isAdmin": true,
       "online": true,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375969616,
+      "lastSeen": 1772375973430,
       "transactions": [
         {
           "type": "game",
@@ -91,7 +91,7 @@
   "globalWinRate": 50,
   "globalForceWin": false,
   "globalForceLose": false,
-  "revenue": 100000,
+  "revenue": 110000,
   "pendingDeposits": [],
   "pendingWithdraws": [],
   "gameImages": {
@@ -110,6 +110,16 @@
   "lockedGames": {},
   "sicboRound": {
     "history": [
+      {
+        "d1": 1,
+        "d2": 1,
+        "d3": 1,
+        "total": 3,
+        "label": "3T",
+        "labelKey": "T",
+        "isTriple": true,
+        "ts": 1772375973974
+      },
       {
         "d1": 4,
         "d2": 4,
@@ -182,14 +192,14 @@
       }
     ],
     "current": {
-      "d1": 4,
-      "d2": 4,
-      "d3": 4,
-      "total": 12,
-      "label": "12T",
+      "d1": 1,
+      "d2": 1,
+      "d3": 1,
+      "total": 3,
+      "label": "3T",
       "labelKey": "T",
       "isTriple": true,
-      "ts": 1772375933543
+      "ts": 1772375973974
     }
   },
   "sicBoForceBig": false,
@@ -198,6 +208,10 @@
   "crashNext": null,
   "crashRound": {
     "history": [
+      {
+        "v": 1.58,
+        "ts": 1772375974361
+      },
       {
         "v": 8.37,
         "ts": 1772375961000
