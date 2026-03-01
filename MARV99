@@ -15,8 +15,16 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375882461,
+      "lastSeen": 1772375887458,
       "transactions": [
+        {
+          "type": "game",
+          "name": "Crash/Spaceman",
+          "amount": -10000,
+          "icon": "🎮",
+          "win": false,
+          "ts": 1772375884861
+        },
         {
           "type": "game",
           "name": "Sic Bo",
@@ -167,5 +175,13 @@
   "sicBoForceBig": false,
   "sicBoForceSmall": false,
   "sicBoForceTriple": true,
-  "crashNext": null
+  "crashNext": null,
+  "crashRound": {
+    "history": [
+      {
+        "v": 1000,
+        "ts": 1772375884861
+      }
+    ]
+  }
 }
