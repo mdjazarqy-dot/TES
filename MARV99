@@ -6,7 +6,7 @@
       "isOwner": true,
       "isAdmin": true,
       "online": true,
-      "playing": "Sweet Bonanza",
+      "playing": null,
       "session": 0,
       "winRate": 50,
       "forceWin": false,
@@ -15,7 +15,7 @@
       "payment": "DANA",
       "account": "",
       "banned": false,
-      "lastSeen": 1772375687639,
+      "lastSeen": 1772375677459,
       "transactions": [
         {
           "type": "game",
